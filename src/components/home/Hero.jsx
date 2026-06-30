@@ -77,7 +77,7 @@ export default function Hero() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-14 animate-slide-up" style={{ animationDelay: "0.4s" }}>
             <Link to="/paper-submission" className="btn-primary px-8 py-3.5 rounded-xl font-semibold text-white text-lg">
-              Submit Your Paper
+              Submit Your Paperssss
             </Link>
             <Link to="/call-for-papers" className="btn-outline px-8 py-3.5 rounded-xl font-semibold text-cyan-400 text-lg">
               Call for Papers
